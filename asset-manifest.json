@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/copytrades/static/css/main.926d1277.chunk.css",
+    "main.js": "/copytrades/static/js/main.db04b57e.chunk.js",
+    "main.js.map": "/copytrades/static/js/main.db04b57e.chunk.js.map",
+    "runtime-main.js": "/copytrades/static/js/runtime-main.c3d4ea48.js",
+    "runtime-main.js.map": "/copytrades/static/js/runtime-main.c3d4ea48.js.map",
+    "static/js/2.ce60b5b5.chunk.js": "/copytrades/static/js/2.ce60b5b5.chunk.js",
+    "static/js/2.ce60b5b5.chunk.js.map": "/copytrades/static/js/2.ce60b5b5.chunk.js.map",
+    "static/js/3.ccf98651.chunk.js": "/copytrades/static/js/3.ccf98651.chunk.js",
+    "static/js/3.ccf98651.chunk.js.map": "/copytrades/static/js/3.ccf98651.chunk.js.map",
+    "index.html": "/copytrades/index.html",
+    "static/css/main.926d1277.chunk.css.map": "/copytrades/static/css/main.926d1277.chunk.css.map",
+    "static/js/2.ce60b5b5.chunk.js.LICENSE.txt": "/copytrades/static/js/2.ce60b5b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3d4ea48.js",
+    "static/js/2.ce60b5b5.chunk.js",
+    "static/css/main.926d1277.chunk.css",
+    "static/js/main.db04b57e.chunk.js"
+  ]
+}
