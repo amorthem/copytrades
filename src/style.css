@@ -1,0 +1,36 @@
+body {
+    /* Seerat picked this colour (using arbitrary values for RGB), and I like it! */
+    /*background-color: #333;*/
+    
+    /* overflow: hidden; */
+    margin: 0px 0px 0px 0px;
+  }
+  .cardBuy{
+    background: url('https://cryptocurrencykb.com/wp-content/uploads/2019/05/Cryptocurrency-Wallpaper-7-1024x683.jpg');
+    background-size: cover;
+  }
+  .btnBuy:hover{
+	  background: linear-gradient(left, #8f6B29, #FDE08D, #DF9F28);
+    box-shadow: #8f6B29 0px 5px 15px;
+  }
+
+  .goldenBack{
+    background: -webkit-linear-gradient(left, #8f6B29, #FDE08D, #DF9F28);
+	  background: linear-gradient(left, #8f6B29, #FDE08D, #DF9F28);
+  }
+
+  input{
+    text-align: center;
+    border-radius: 5px;
+  }
+  .divClaim{
+    position: fixed;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    opacity: 0.8;
+    z-index: 999;
+  }
