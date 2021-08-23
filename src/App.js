@@ -13,13 +13,13 @@ export default class App extends Component {
     return (
       <>
           <Switch>
-            <Route exact path="/" component={Home}>
+            <Route exact path="" component={Home}>
               <Home />
             </Route>
-            <Route exact path="/copytrade">
+            <Route exact path="copytrade">
               <Copytrade />
             </Route>
-            <Route exact path="/dex">
+            <Route exact path="dex">
               <Dex />
             </Route>
             <Route exact path="*">{Error404}</Route>
