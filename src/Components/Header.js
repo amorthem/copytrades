@@ -25,10 +25,10 @@ export default class Header extends React.Component {
                 <NavLink to="./" style={{ color: '#fff' }}><strong><i class="fas fa-home"></i> Home</strong></NavLink>
               </Nav.Link>
               <Nav.Link>
-                <NavLink to="copytrade" style={{ color: '#fff' }}><strong><i class="fas fa-users"></i> Copytrade</strong></NavLink>
+                <NavLink to="/#/copytrade" style={{ color: '#fff' }}><strong><i class="fas fa-users"></i> Copytrade</strong></NavLink>
               </Nav.Link>
               <Nav.Link>
-                <NavLink to="dex" style={{ color: '#fff' }}><strong><i class="fas fa-chart-area"></i> DEX (For Fund Manager)</strong></NavLink>
+                <NavLink to="/#/dex" style={{ color: '#fff' }}><strong><i class="fas fa-chart-area"></i> DEX (For Fund Manager)</strong></NavLink>
                 </Nav.Link>
             </Nav>
           </Navbar.Collapse>
