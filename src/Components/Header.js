@@ -22,13 +22,13 @@ export default class Header extends React.Component {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link>
-                <NavLink to="" style={{ color: '#fff' }}><strong><i class="fas fa-home"></i> Home</strong></NavLink>
+                <NavLink to="/copytrades" style={{ color: '#fff' }}><strong><i class="fas fa-home"></i> Home</strong></NavLink>
               </Nav.Link>
               <Nav.Link>
-                <NavLink to="copytrade" style={{ color: '#fff' }}><strong><i class="fas fa-users"></i> Copytrade</strong></NavLink>
+                <NavLink to="copytrades/copytrade" style={{ color: '#fff' }}><strong><i class="fas fa-users"></i> Copytrade</strong></NavLink>
               </Nav.Link>
               <Nav.Link>
-                <NavLink to="dex" style={{ color: '#fff' }}><strong><i class="fas fa-chart-area"></i> DEX (For Fund Manager)</strong></NavLink>
+                <NavLink to="copytrades/dex" style={{ color: '#fff' }}><strong><i class="fas fa-chart-area"></i> DEX (For Fund Manager)</strong></NavLink>
                 </Nav.Link>
             </Nav>
           </Navbar.Collapse>
