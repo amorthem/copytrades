@@ -16,10 +16,10 @@ export default class App extends Component {
             <Route exact path="/copytrades" component={Home}>
               <Home />
             </Route>
-            <Route exact path="copytrades/copytrade">
+            <Route exact path="/copytrades/copytrade">
               <Copytrade />
             </Route>
-            <Route exact path="copytrades/dex">
+            <Route exact path="/copytrades/dex">
               <Dex />
             </Route>
             <Route exact path="*">{Error404}</Route>
